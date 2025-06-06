@@ -1,4 +1,3 @@
-
 # 📊 Telecom Churn Analysis Dashboard
 
 This project focuses on analyzing customer churn behavior in the telecom industry by building a complete **ETL pipeline**, loading data into a **SQL Server** database, and visualizing insights using **Power BI**.
