@@ -15,7 +15,7 @@ The goal of this project is to help telecom businesses:
 
 ---
 
-## 🎯 Project Goals
+## 🎯 Project Goals:
 
 1. **Analyze Customer Data** at multiple levels:
 
